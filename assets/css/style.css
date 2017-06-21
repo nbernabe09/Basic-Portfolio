@@ -48,6 +48,11 @@ h1 {
 	padding-right: 10%;
 }
 
+.pageLinks a {
+	color: #777777;
+	text-decoration: none;
+}
+
 #space {
 	height: 100px;
 }
